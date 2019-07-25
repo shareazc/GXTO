@@ -1,6 +1,6 @@
 # GXTO | Mobile Game for React Native
 
-!(https://i.imgur.com/ZLp8pLb.jpg)
+![mockup](https://i.imgur.com/ZLp8pLb.jpg)
 
 This is a small game of tic-tac-toe developed on React Native.
 
